@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "apitable"
+name = "vika"
 version = "1.4.2"
 description = "APITable OpenAPI Python SDK"
 authors = ["APITable Ltd. <dev@apitable.com>"]
